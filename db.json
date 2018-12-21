@@ -2,12 +2,12 @@
     "stores": [{
         "id": 1,
         "name" : "Esselunga",
-        "url" : "https://my-json-server.typicode.com/AlessandroCaste/HappyGroceryDB/stores?=store1/products?barcode="
+        "url" : "https://my-json-server.typicode.com/AlessandroCaste/HappyGroceryDBStore1/products?barcode="
     },
     {
         "id" : 2,
         "name" : "Eat and Run",
-        "url" : "https://my-json-server.typicode.com/AlessandroCaste/HappyGroceryDB/stores?=store2/products?barcode="
+        "url" : "https://my-json-server.typicode.com/AlessandroCaste/HappyGroceryDBStore2/products?barcode="
     }
     ]
 }
